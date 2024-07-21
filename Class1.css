@@ -367,6 +367,7 @@ section:nth-child(3) h2 {
   max-width: 500px; /* Maximum width */
   text-align: center;
   font-size: 0px;
+  font-style: white;
   
 }
 
